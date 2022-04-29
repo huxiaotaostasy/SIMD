@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651132337 source:d:\vs project\conv_simd_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<immintrin.h>
+	<time.h>
+	<chrono>
+

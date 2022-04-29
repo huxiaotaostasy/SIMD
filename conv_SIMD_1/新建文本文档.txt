@@ -1,0 +1,2 @@
+g++.exe -Wall -fexceptions -march=nocona -Wall -std=gnu++17 -m64 -g -march=native -mmmx  -c "D:\vs project\conv_SIMD\main.cpp" -o obj\Debug\main.o
+g++.exe  -o bin\Debug\conv_SIMD.exe obj\Debug\main.o  -O2 -m64  

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650880196 source:d:\vs project\code_simd\main.cpp
+	<immintrin.h>
+	<stdlib.h>
+	<algorithm>
+	<chrono>
+	<iostream>
+	<time.h>
+	<fstream>
+
